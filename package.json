@@ -1,0 +1,8 @@
+{
+  "name": "Social",
+  "version": "1.0.0",
+  "description": "A mini social network for key",
+  "main": "src/server.ts",
+  "author": "Tuan Kiet",
+  "license": "MIT"
+}
